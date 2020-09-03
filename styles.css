@@ -6,3 +6,7 @@ body {
     background-image: url("./images/wallpaper.jpg");
     background-size: cover;
 }
+
+.linkedin {
+    color: white;
+}
